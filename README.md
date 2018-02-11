@@ -16,3 +16,6 @@ https://github.com/sysarchitek/DataBox.geotracking
 They all are NodeEclipse project
 
 This main project holds the documentation and cookbook of the solution. No code will be published here
+
+YouTube 3min demo: https://youtu.be/yg7ieQeYTSo
+YouTube 10min technology browsing: https://youtu.be/Es7b7VV7s78
